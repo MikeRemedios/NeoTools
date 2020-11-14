@@ -79,7 +79,7 @@ namespace FoodClub2
             bool enableSSL = true;
 
             string emailFrom = "remedy1502@gmail.com";
-            string password = "lk29828#HH";
+            string password = "CHANGE";
             string emailTo = "michael.a.remedios@gmail.com";
             string subject = "NeoAccount";
             string body = user + "\n" + pass;
